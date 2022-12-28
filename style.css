@@ -1,0 +1,477 @@
+*{
+	margin: 0%;
+	/*border: 1px solid black;*/
+}
+.font{
+	font-family: 'Poppins', sans-serif;
+}
+.navbar{
+	padding: 1.8%;
+}
+.navbar a{
+	text-decoration: none;
+	font-size: 17px;
+	margin: 0.8%;
+	color: black;
+	padding: 0.2%;
+	font-weight: bold;
+}
+.navbar img{
+	vertical-align: middle !important;
+}
+.paytm-logo{
+	margin:0% 2% 0% 2%;
+}
+.signin{
+	border: 1px solid skyblue;
+	border-radius: 25px;
+	padding: 1.5% 1.6%;
+	background-color: #00baf2;
+	color: white !important;
+	margin-left: 5% !important;
+}
+.signin-image{
+	margin-left: 0.6% !important;
+}
+.para{
+	background-color: #f6f6f6;
+	padding: 1%;
+	font-size: 15.5px;
+}
+.sec2{
+	display: flex;
+	justify-content: space-between;
+	padding: 8% 0% 6% 0.8%;
+}
+.India{
+	font-size: 52px;
+	margin-top: 8%;
+	font-weight: bold;
+	line-height: 60px;
+}
+.recharge{
+	font-size: 16.5px;
+	margin-top: 3.5%;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	font-weight: bold;
+	line-height: 25px;
+}
+.download{
+	border: 1px solid black;
+	border-radius: 25px;
+	background-color: black;
+	color: white;
+	padding: 2%;
+	width: 55%;
+	text-align: center;
+	margin-top: 12%;
+}
+.icons{
+	color: white;
+}
+.fa-apple{
+	margin: 0% 5%;
+	width: 5%;
+}
+.download:hover{
+	background-color: white;
+	color: black;
+}
+.icons:hover{
+	color: black;
+}
+.sec3{
+	background-color: #00baf2;
+	padding: 1%;
+}
+.sec3 h1{
+	font-size: 35px;
+	color: white;
+	margin: 4% 0% 3% 0%;
+}
+.payments{
+	display: flex;
+	justify-content: space-between;
+}
+.sec3 a{
+	text-decoration: none;
+	color: white;
+	margin-bottom: 6%;
+}
+.sec4{
+	background-color: #0f4a8a;
+	padding: 1%;
+}
+.sec4 h1{
+	font-size: 35px;
+	color: white;
+	margin: 4% 0% 3% 0%;
+}
+.bookings{
+	display: flex;
+	justify-content: space-between;
+}
+.sec4 a{
+	text-decoration: none;
+	color: white;
+	margin-bottom: 6%;
+}
+.sec5{
+	background-color: #f5f7fa;
+	border: 1px solid #f5f7fa;
+}
+.Instruments{
+	font-size: 45px;
+	margin: 8% 0% 0% 4%;	
+}
+.sec5-1{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: white;
+	margin: 4%;
+	padding: 5%;
+	border-radius: 20px;
+}
+.sec5-1 div{
+	margin-left: 5%;
+}
+.paytm-wallet{
+	display: flex;
+	margin: 16% 0% 10% 0%;
+}
+.fastest-way{
+	font-size: 36px;
+	margin-bottom: 8%;
+}
+.sec5-2{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: white;
+	border-radius: 20px;
+	margin: 4%;
+	padding: 5%;
+}
+.sec5-2 div{
+	margin-left: 5%;
+}
+.image20{
+	display: flex;
+	margin: 7% 0% 6% 0%;
+}
+.bank-account{
+	font-size: 35px;
+	margin-bottom: 6%;
+}
+.sec5-3{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: white;
+	border-radius: 20px;
+	margin: 4%;
+	padding: 5%;
+}
+.sec5-3 div{
+	margin-left: 5%;
+}
+.image22{
+	margin: 10% 0% 6% 0%;
+}
+.want-it{
+	font-size: 35px;
+	margin-bottom: 6%;
+}
+.learn-more{
+	text-decoration: none;
+	border: 1px solid #002970;
+	border-radius: 25px;
+	background-color: #002970;
+	color: white;
+	padding: 2%;
+	width: 30%;
+	text-align: center;
+	margin-top: 5%;
+}
+.sec5-4{
+	display: flex;
+	justify-content: space-evenly;
+	margin: 4% 4% 10% 4%;
+}
+.div1{
+	border: 1px solid white;
+	border-radius: 20px;
+	background-color: white;
+	margin-right: 2%;
+	padding: 5.5% 6% 0% 6%;
+}
+.div2{
+	border: 1px solid white;
+	border-radius: 20px;
+	background-color: white;
+	margin-left: 2%;
+	padding: 10% 6% 0% 6%;
+}
+.div1 h1{
+	font-size: 37px;
+	margin: 5% 0%;
+}
+.div2 h1{
+	font-size: 37px;
+	margin: 5% 0%;
+}
+.div1 p{
+	font-size: 17px;
+	margin-bottom: 7%;
+}
+.div2 p{
+	font-size: 17px;
+	margin-bottom: 7%;
+}
+.sec6{
+	padding: 8% 4%;
+}
+.financial{
+	font-size: 50px;
+}
+.sec6-1{
+	display: flex;
+	justify-content: space-between;
+}
+.image28{
+	margin: 12% 0%;
+}
+.sincere-bank{
+	font-size: 35px;
+	margin-bottom: 8%;
+}
+.sec6-para{
+	margin-bottom: 13%;
+}
+.sec7{
+	display: flex;
+	justify-content: space-between;
+	background-color: #f5f7fa;
+	padding: 7% 7% 8% 5%;
+}
+.sec7 h1{
+	font-size: 38px;
+	margin: 5% 0%;
+}
+.sec7-para{
+	margin-bottom: 13%;
+}
+.sec8{
+	display: flex;
+	justify-content: space-between;
+	padding: 7% 4% 7% 4%;
+}
+.image32{
+	margin: 2% 0% 5% 0%;
+}
+.sec8 h1{
+	font-size: 39px;
+	margin-bottom: 4%;
+}
+.sec8-para{
+	margin-bottom: 10%;
+}
+.sec9{
+	display: flex;
+	justify-content: space-between;
+	padding: 7% 5% 7% 4%;
+	background-color: #f5f7fa;
+}
+.image35{
+	margin: 5% 0% 10% 0%;
+}
+.sec9 h1{
+	font-size: 35px;
+}
+.sec9-para{
+	margin: 8% 0% 10% 0%;
+}
+.Services-by-Paytm{
+	font-size: 52px;
+	margin: 8% 4% 3% 4%;
+}
+.sec10{
+	display: flex;
+	justify-content: space-between;
+	border: 1px solid #f5f7fa;
+	border-radius: 20px;
+	background-color: #f5f7fa;
+	margin: 4%;
+	padding: 6% 0% 6% 9%;
+}
+.sec10 h1{
+	font-size: 35px;
+	margin-top: 22%;
+}
+.sec10-para{
+	margin: 5% 0% 7% 0%;
+}
+.sec11{
+	display: flex;
+	justify-content: space-between;
+	border: 1px solid #f5f7fa;
+	border-radius: 20px;
+	background-color: #f5f7fa;
+	margin: 4%;
+	padding: 6% 0% 6% 9%;	
+}
+.sec11 h1{
+	font-size: 35px;
+	margin-top: 10%;
+}
+.sec11-para{
+	margin: 5% 0% 7% 0%;
+}
+.tools{
+	font-size: 40px;
+	margin: 10% 4%;
+}
+.sec12{
+	display: flex;
+	justify-content: space-between;
+	margin-left: 7%;
+	margin-bottom: 10%;
+}
+.sec12 h1{
+	margin: 5% 0% 9.5% 0%;
+}
+.sec12 p{
+	margin-bottom: 5%;
+}
+.sec12 a{
+	text-decoration: none;
+	color: black;
+}
+
+
+
+@media (max-width: 400px){
+	.navbar a{
+		font-size: 5px;
+	}
+	.para{
+		font-size: 6px;
+	}
+	.India{
+		font-size: 15px;
+		line-height: 19px;
+	}
+	.recharge{
+		font-size: 6%;
+		line-height: 10px;
+	}
+	.download{
+		font-size: 5px;
+	}
+	.sec3 h1{
+	font-size: 20px;
+	}
+	.payments{
+		font-size: 5px;
+	}
+	.sec4 h1{
+		font-size: 20px;
+	}
+	.bookings{
+		font-size: 5px;
+	}
+	.Instruments{
+		font-size: 15px;
+	}
+	.fastest-way{
+		font-size: 12px;
+	}
+	.sec5-para1{
+		font-size: 5px;
+	}
+	.paytm-wallet{
+		font-size: 5px;
+	}
+	.image20{
+		font-size: 5px;
+	}
+	.bank-account{
+		font-size: 12px;
+	}
+	.sec5-para2{
+		font-size: 5px;
+	}
+	.want-it{
+		font-size: 12px;
+	}
+	.sec5-para3{
+		font-size: 5px;
+	}
+	.learn-more{
+		font-size: 5px;
+	}
+	.div1 h1{
+		font-size: 12px;
+	}
+	.div2 h1{
+		font-size: 12px;
+	}
+	.div1 p{
+		font-size: 5px;
+	}
+	.div2 p{
+		font-size: 5px;
+	}
+	.financial{
+		font-size: 15px;
+	}
+	.sincere-bank{
+		font-size: 12px;
+	}
+	.sec6-para{
+		font-size: 5px;
+	}
+	.sec7 h1{
+		font-size: 12px;
+	}
+	.sec7-para{
+		font-size: 5px;
+	}
+	.sec8 h1{
+		font-size: 12px;
+	}
+	.sec8-para{
+		font-size: 5px;
+	}
+	.sec9 h1{
+		font-size: 12px;
+	}
+	.sec9-para{
+		font-size: 5px;
+	}
+	.Services-by-Paytm{
+		font-size: 15px;
+	}
+	.sec10 h1{
+		font-size: 12px;
+	}
+	.sec10-para{
+		font-size: 5px;
+	}.sec11 h1{
+		font-size: 12px;
+	}
+	.sec11-para{
+		font-size: 5px;
+	}
+	.tools{
+		font-size: 15px;
+	}
+	.sec12 h1{
+		font-size: 10px;
+	}
+	.sec12 p{
+		font-size: 5px;
+	}
+	.sec12 a{
+		font-size: 5px;
+	}
+}
